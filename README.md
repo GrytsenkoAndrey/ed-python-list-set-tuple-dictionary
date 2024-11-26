@@ -1,4 +1,4 @@
-# ed-python-list-set-typle-dictionary
+# ed-python-list-set-tuple-dictionary
 
 ## Списки (Lists):
 
